@@ -1,1 +1,10 @@
-﻿  Striangle.vcxproj -> O:\Projects\Coding\Sierpinski triangle\Striangle\x64\Debug\Striangle.exe
+﻿  Striangle.c
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(22,2): warning C4091: 'typedef ': ignored on left of 'Triangle' when no variable is declared
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(30,45): warning C4013: 'malloc' undefined; assuming extern returning int
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(30,74): warning C4312: 'type cast': conversion from 'int' to 'Triangle *' of greater size
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(58,9): warning C4013: 'free' undefined; assuming extern returning int
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(81,47): warning C4312: 'type cast': conversion from 'int' to 'Triangle *' of greater size
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(77,1): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(78,1): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+O:\Projects\Coding\Sierpinski triangle\Striangle\Striangle.c(79,1): warning C4244: 'initializing': conversion from 'const int' to 'float', possible loss of data
+  Striangle.vcxproj -> O:\Projects\Coding\Sierpinski triangle\Striangle\x64\Debug\Striangle.exe
