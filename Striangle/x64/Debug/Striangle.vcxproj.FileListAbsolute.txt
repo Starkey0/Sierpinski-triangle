@@ -1,0 +1,2 @@
+O:\Projects\Coding\Sierpinski triangle\Striangle\x64\Debug\Striangle.exe
+O:\Projects\Coding\Sierpinski triangle\Striangle\x64\Debug\Striangle.pdb

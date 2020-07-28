@@ -1,0 +1,2 @@
+O:\Projects\Coding\Sierpinski triangle\Striangle\bin\x64\Debug\raylib.pdb
+O:\Projects\Coding\Sierpinski triangle\Striangle\obj\x64\Debug\raylib.pdb
